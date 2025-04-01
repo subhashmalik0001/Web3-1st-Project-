@@ -13,7 +13,7 @@ To deploy this contract, use a Solidity-compatible environment such as Remix, Ha
 
 ## Contract Address
 ```
-<Insert Contract Address Here>
+0x24CDB6c316A33abE4b444E65d17b8f3E32732778
 ```
 
 ## Usage
